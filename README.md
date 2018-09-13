@@ -1,4 +1,4 @@
 # lokuline
 
-a privacy-respecting, metasearch engine.
+a privacy-respecting, metasearch engine with super powers.
 
